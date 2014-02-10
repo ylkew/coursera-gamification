@@ -1,5 +1,5 @@
 
-# Gamification - Week 1 notes
+# Week 1 notes
 
 ## Game mechanics
 
