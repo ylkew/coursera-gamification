@@ -1,5 +1,6 @@
 # Week 2 notes
 
+
 ## What gamification is not
 
 * Making everything a game
@@ -12,17 +13,20 @@
 * Just PBLs (points, badges, leaderboards)
 * Game theory
 
+
 ## What is gamification?
 
 * __Listen__ to what games can teach us
 * __Learning__ from game deisgn )and psychology, management, marketing, economics)
 * __Appreciating__ fun
 
+
 ## What is a game?
 
-Ludwig Wittgenstein beleived you cannot bound the concept of a game
+Ludwig Wittgenstein beleived you cannot bound the concept of a game.
 
 Bernard Suits beleived we can define every possible game based on three precepts:
+
 	* Pre-lusory goal
 	* Constitutive rules
 	* Lusory attitude
@@ -33,20 +37,22 @@ The "magic circle" sets boundaries between the game and real life
 
 In summary...
 
-	In a game we voluntarily overcome unnecessary obstacles
+> In a game we voluntarily overcome unnecessary obstacles
 	
 Roger Caillois distinguished Paidia (Greek for child) or play from Ludus (Latin for games).
 
 Play is done spontaneously for its own sake.
 
-	A game is a series of meaningful choices
-		- Sid Meier
+> A game is a series of meaningful choices
+> - Sid Meier
+
 
 ### Takeaways
 
 * Voluntariness
 * Learning or problem solving
 * Balance of structure and exploration
+
 
 ## Video games
 
@@ -64,6 +70,7 @@ Play is done spontaneously for its own sake.
 	* MMOGs (WoW)
 	* Puzzel (Portal, AB)
 
+
 ## Real world building blocks
 
 * e-Business
@@ -76,6 +83,6 @@ Play is done spontaneously for its own sake.
 
 Games are becoming increasingly real, while trends like loot farming derive real world benefits from games (multi-million dollat gray market industry).
 
-	Designing incentives to get people to act properly is not new.
-		- Ethan Mollick
+> Designing incentives to get people to act properly is not new.
+> - Ethan Mollick
 

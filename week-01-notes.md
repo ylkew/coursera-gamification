@@ -18,7 +18,7 @@
 
 ### Definition
 
-	The use of game elements and game design in non-game contexts
+> The use of game elements and game design in non-game contexts
 
 ### Game elements
 
@@ -35,7 +35,7 @@
 
 ### Non-game contexts
 
-	A purpose outside of winning the game
+> A purpose outside of winning the game
 
 ### Why study gamification
 
