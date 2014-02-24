@@ -5,9 +5,9 @@
 
 Dodgeball was a very successful location based service. But they had a chicken-and-egg problem in that the incentive came from participating in your already large dodgeball network. New users had no network and so lacked the incentive to get started.
 
-Dodgeball founder Dennis Crowley's next company was foursquare. Foursqaure employed gamification to…
+Dodgeball founder Dennis Crowley's next company was foursquare. Foursquare employed gamification to…
 
-* Engadgement gap
+* Engagement gap
 * Choices
 * Progession
 * Social

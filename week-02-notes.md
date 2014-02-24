@@ -17,7 +17,7 @@
 ## What is gamification?
 
 * __Listen__ to what games can teach us
-* __Learning__ from game deisgn )and psychology, management, marketing, economics)
+* __Learning__ from game design )and psychology, management, marketing, economics)
 * __Appreciating__ fun
 
 
