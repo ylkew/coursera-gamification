@@ -40,7 +40,7 @@ According to Nicole Lazzaro, which of the following are types of fun? (Check all
 
 When a player first begins Plants vs. Zombies, the game directs the player to certain actions. The first level involves a limited number of monsters, making failure at that stage nearly impossible. These characteristics are examples of:
 
-* (x) Onboarding
+* (x) On-boarding
 * ( ) Mastery
 * ( ) Feedback loops
 * ( ) Meaningful choices

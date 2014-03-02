@@ -1,4 +1,3 @@
-
 # Week 4 notes - Breaking games down
 
 
@@ -12,7 +11,7 @@
 * Win and draw states
 * No progression or scoring
 
-Tic Tac Toe is an overly simplistic game that can't hold the attention of any adult for long. But it's composed of exeriences and elements that can be put into non-game contexts.
+Tic Tac Toe is an overly simplistic game that can't hold the attention of any adult for long. But it's composed of experiences and elements that can be put into non-game contexts.
 
 
 ## The pyramid of elements
@@ -43,7 +42,7 @@ Processes that drive action forward; "verbs"
 2. Chance
 3. Competition
 4. Cooperation
-5. Fedback
+5. Feedback
 6. Resource acquisition
 7. Rewards
 8. Transactions
@@ -55,7 +54,7 @@ Processes that drive action forward; "verbs"
 
 Specific instantiations of mechanics and dynamics; "nouns"
 
-1. Acheivements
+1. Achievements
 2. Avatars
 3. Badges
 4. Boss fights
@@ -87,7 +86,7 @@ Specific instantiations of mechanics and dynamics; "nouns"
 ### Points
 
 * Keep score
-* Determin win states
+* Determine win states
 * Connect to rewards
 * Provide feedback
 * Display of progress
@@ -97,7 +96,7 @@ Specific instantiations of mechanics and dynamics; "nouns"
 
 ### Badges
 
-* Representations of acheivement
+* Representations of achievement
 * Flexible
 * Style
 * Signaling of importance
@@ -142,7 +141,7 @@ Friend-relative variant
 > All CEO's should get familiar with gamification because it's the new normal for people born after 1971.
 
 
-### Instant feeback
+### Instant feedback
 
 > Instant feedback is standard in games and can be important in life.
 

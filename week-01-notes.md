@@ -12,7 +12,7 @@
 * What is gamification?
 * Why might it be valuable?
 * Learn how to do it effectively
-* Specific aplications
+* Specific applications
 
 ## What is gamification?
 
@@ -41,7 +41,7 @@
 
 * An emerging business practice
 * Games are powerful things
-* Lessons from pyschology, design, strategy, and technology
+* Lessons from psychology, design, strategy, and technology
 * Harder than it appears
 
 ## Why might it be valuable?
@@ -54,7 +54,7 @@
 
 * Marketing
 * Sales
-* Customer engadgement
+* Customer engagement
 
 ### Internal
 

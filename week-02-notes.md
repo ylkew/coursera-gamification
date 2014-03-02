@@ -9,7 +9,7 @@
 * Any use of games in business
 	* McDonald's Monopoly is not changing the experience
 * Simulations (although they may constitute serious games)
-* Just for marketing or engadgement
+* Just for marketing or engagement
 * Just PBLs (points, badges, leaderboards)
 * Game theory
 
@@ -23,9 +23,9 @@
 
 ## What is a game?
 
-Ludwig Wittgenstein beleived you cannot bound the concept of a game.
+Ludwig Wittgenstein believed you cannot bound the concept of a game.
 
-Bernard Suits beleived we can define every possible game based on three precepts:
+Bernard Suits believed we can define every possible game based on three precepts:
 
 	* Pre-lusory goal
 	* Constitutive rules
@@ -81,7 +81,7 @@ Play is done spontaneously for its own sake.
 * Loyalty programs
 * Management and marketing research
 
-Games are becoming increasingly real, while trends like loot farming derive real world benefits from games (multi-million dollat gray market industry).
+Games are becoming increasingly real, while trends like loot farming derive real world benefits from games (multi-million dollar gray market industry).
 
 > Designing incentives to get people to act properly is not new.
 > - Ethan Mollick

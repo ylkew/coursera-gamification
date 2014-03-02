@@ -1,7 +1,7 @@
 # Week 3 notes
 
 
-## Why gamifiy?
+## Why gamify?
 
 Dodgeball was a very successful location based service. But they had a chicken-and-egg problem in that the incentive came from participating in your already large dodgeball network. New users had no network and so lacked the incentive to get started.
 
@@ -9,7 +9,7 @@ Dodgeball founder Dennis Crowley's next company was foursquare. Foursquare emplo
 
 * Engagement gap
 * Choices
-* Progession
+* Progression
 * Social
 * Habit
 
@@ -45,7 +45,7 @@ The game designers challenge is to:
 
 __The player journey__
 
-* Onboarding
+* On-boarding
 * Scaffolding
 * Pathways to mastery
 
@@ -71,7 +71,7 @@ Q. What makes games engaging?
 A. Fun.
 
 > In every job that must be done, there is an element of fun. find the fun and snap! The job's a game!
-> &mdash;Mary Poppins
+> --Mary Poppins
 
 __What things are fun?__
 
@@ -90,7 +90,7 @@ __What things are fun?__
 * Customization
 * Goofing off
 
-How can you tap the different types of fun to increase engagment in the activity?
+How can you tap the different types of fun to increase engagement in the activity?
 
 
 ## Anatomy of fun
