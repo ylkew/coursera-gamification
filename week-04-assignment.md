@@ -9,9 +9,11 @@ She tells you that Cereals Inc. is about to release a new line of ready-to-eat b
 
 __Provide as many reasons as you can why gamification could be a useful technique to apply to the situation your manager has presented to you.  Explain why these reasons address the specific scenario provided. __ At this stage, focus on the problem rather than the solution.  In other words, describe the goals of the project, not the particular game elements or other techniques you plan to use.  We strongly encourage you to watch this week's lecture segments before attempting this assignment.
 
+
 ## Format
 
 Maximum of 300 words. A normal answer will be 1-2 paragraphs of text, and/or a set of bullet points.  Your submission should be self-contained (not requiring the grader to view any outside materials) and should provide sufficient details for the grader to understand the basis for your statements.
+
 
 ## Answer
 
