@@ -1,4 +1,4 @@
-# Week 7 notes - Gamification Design Framework
+# Lecture notes 7 - Gamification Design Framework
 
 ## The Design Process
 

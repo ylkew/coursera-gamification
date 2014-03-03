@@ -1,8 +1,8 @@
-# Week 3 Quiz
+# Homework quiz 2a
 
-Score:5/5
-
-Attempts: 2
+|Score|Attempts|
+|--------------|
+|5/5  |2/5     |
 
 
 ## Question 1

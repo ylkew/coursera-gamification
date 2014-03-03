@@ -1,7 +1,9 @@
-# Week 2 quiz
+# Homework quiz 1
 
-* Attempts: 1
-* Score: 5/5
+|Score|Attempts|
+|--------------|
+|5/5  |1/5     |
+
 
 ## Question 1
 

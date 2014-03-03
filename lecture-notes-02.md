@@ -1,5 +1,4 @@
-# Week 2 notes
-
+# Lecture notes 2 - Games
 
 ## What gamification is not
 

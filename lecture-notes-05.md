@@ -1,4 +1,4 @@
-# Week 5 notes - Motivation & Psychology - Part 1
+# Lecture notes 7 - Motivation & psychology - Part 1
 
 ## Motivational design
 

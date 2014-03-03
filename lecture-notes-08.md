@@ -1,4 +1,4 @@
-# Week 8 notes - Design Choices
+# Lecture notes 8 - Design Choices
 
 ## Taking Stock
 

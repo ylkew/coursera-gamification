@@ -1,5 +1,4 @@
-# Week 4 notes - Breaking games down
-
+# Lecture notes 4 - Breaking games down
 
 ## Element of Tic Tac Toe
 

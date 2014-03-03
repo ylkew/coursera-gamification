@@ -1,8 +1,8 @@
-# Week 6 quiz
+# Homework quiz 4
 
-Score: 10/10
-
-Attempts: 2/5
+|Score|Attempts|
+|--------------|
+|10/10|2/5     |
 
 
 ## Question 1

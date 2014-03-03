@@ -1,4 +1,4 @@
-# Week 6 notes - Motivation & Psychology - Part 2
+# Lecture notes 7 - Motivation & psychology - Part 2
 
 ## Limitations of behaviorism
 

@@ -1,5 +1,4 @@
-
-# Week 1 notes
+# Lecture notes 1 - What is gamification?
 
 ## Game mechanics
 

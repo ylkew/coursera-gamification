@@ -1,5 +1,4 @@
-# Week 3 notes
-
+# Lecture notes 3 - Game thinking
 
 ## Why gamify?
 
