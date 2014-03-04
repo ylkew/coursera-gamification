@@ -8,7 +8,7 @@
 * Balance of analytical & creative
 	* Abductive reasoning: inference from best available explanation
 * Iterative
-	* Prototyping and playtesting
+	* Prototyping and play-testing
 
 
 ### Gamification design framework
@@ -61,7 +61,7 @@ Bartle MMOG player type model
 4 types:
 
 * Achievers: Acting/World
-* Explorers: Intering/World
+* Explorers: Interacting/World
 * Socializers: Interacting/Players
 * Killers: Acting/Players
 
@@ -93,6 +93,6 @@ Representation of the player journey:
 
 ### What aspects are fun and engaging for the user?
 
-Example: Linkedin completness bar
+Example: LinkedIn completeness bar
 
 Example: folding, a game were people voluntarily shape proteins and find the optimum structure, leading to real world advances in medicine.
